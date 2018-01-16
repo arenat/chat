@@ -1,0 +1,5 @@
+[server]
+room_list = 21,22,23,linux,python
+server_host = 127.0.0.1
+server_port = 5001
+room_history_limit = 128
